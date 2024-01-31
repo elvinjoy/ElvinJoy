@@ -23,19 +23,22 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/elvinjoy" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Elvin Joy LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/elvinjoy" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Elvin Joy Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/_elvinjoy_" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Elvin Joy Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/elvinjoy" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Elvin Joy HackerRank" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chakravarthi-v/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/ChakriVV">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/___chakri_/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:chakravarthiviswanath@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://github.com/chakravarthi-v">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
 </p>
 
 --------------------------------------------------------------------------
