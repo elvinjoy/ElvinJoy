@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/elvin-joy-792143294/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="[https://twitter.com/ChakriVV](https://twitter.com/i_Cypher__)">
+  <a href="https://twitter.com/i_Cypher__">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/i_cypher__?igsh=MWlxZ3F2bDJjbnZ3Zw==">
