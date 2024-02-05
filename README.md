@@ -10,8 +10,8 @@
 
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
-- - ⚡ Fun fact: I love connecting with different people
-- - 🔭 I’m currently working on a hospital Website :grin:
+- ⚡ Fun fact: I love connecting with different people
+- 🔭 I’m currently working on a hospital Website :grin:
 - 🧗 I try to: Go beyond and push the bounds
 - :seedling: I’m currently learning about TypeScript.
 - 👯 I’m looking to collaborate with other Devs
