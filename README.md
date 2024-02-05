@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
-- ⚡ Fun fact: Gamer, music enthusiast, film buff. 🎮🎵🎬
+- ⚡ Fun fact: i,m a 🎮er , 🎵 enthusiast, 🎬 buff. 
 - 🔭 currently working on a hospital Website :grin:
 - 🧗 I try to: Go beyond and push the bounds
 - :seedling: I’m currently learning about TypeScript.
