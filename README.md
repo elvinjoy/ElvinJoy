@@ -9,12 +9,12 @@
 
 
 - 🤔 I’m looking for an internship.
-- :speech_balloon: Ask me about anything.
-- ⚡ Fun fact: i,m a 🎮er , 🎵 enthusiast, 🎬 buff. 
+- :speech_balloon: Ask me about anything. 
 - 🔭 currently working on a hospital Website :grin:
 - 🧗 I try to: Go beyond and push the bounds
 - :seedling: I’m currently learning about TypeScript.
 - 👯 I’m looking to collaborate with other Devs
+- ⚡ Fun fact: i,m a 🎮er , 🎵 enthusiast, 🎬 buff.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 
 
