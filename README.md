@@ -14,7 +14,7 @@
 - - 🔭 I’m currently working on a hospital Website :grin:
 - 🧗 I try to: Go beyond and push the bounds
 - :seedling: I’m currently learning about TypeScript.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 👯 I’m looking to collaborate with other Devs
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 
 
