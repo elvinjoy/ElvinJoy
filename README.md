@@ -14,7 +14,7 @@
 - :seedling: I’m currently learning about TypeScript.
 - 🔭 I’m currently working on a hospital Website :grin: 
 - 👯 I’m looking to collaborate with other Developers :wink:
-- ⚡ Fun fact: I love connecting with different people <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+- ⚡ Fun fact: I love connecting with different people
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 
 
