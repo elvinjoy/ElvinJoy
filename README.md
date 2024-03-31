@@ -8,9 +8,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=elvinjoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤔 I’m looking for an internship.
+
 - :speech_balloon: Ask me about anything. 
-- 🔭 currently working on a hospital Website :grin:
+- 🔭 currently working on watsapp-web clone :grin:
 - 🧗 I try to: Go beyond and push the bounds
 - :seedling: I’m currently learning about TypeScript.
 - 👯 I’m looking to collaborate with other Devs
