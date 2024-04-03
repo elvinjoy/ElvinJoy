@@ -12,7 +12,7 @@
 - :speech_balloon: Ask me about anything. 
 - 🔭 currently working on watsapp-web clone :grin:
 - 🧗 I try to: Go beyond and push the bounds
-- :seedling: I’m currently learning about TypeScript.
+- :seedling: I’m currently learning about dart.
 - 👯 I’m looking to collaborate with other Devs
 - ⚡ Fun fact: i,m a 🎮er , 🎵 enthusiast, 🎬 buff.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
