@@ -48,15 +48,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elvinjoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elvinjoy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinjoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Last Edited On : 12/02/2024
+Last Edited On : 12/06/2024
 
 ------------------------------------------------------
 
